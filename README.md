@@ -13,7 +13,7 @@
 </p>
 
 
-- 🔭 I’m currently working in a company **Reshita**
+- 🔭 I’m currently working in a company **Logicsoft International Private Limited**
 
 - 🌱 I’m currently learning **Spring Reactive**
 
